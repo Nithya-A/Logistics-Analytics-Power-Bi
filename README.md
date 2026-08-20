@@ -293,7 +293,7 @@ Logistics-Analytics-Power-BI/
 
 ### Maintenance & Fleet Reliability
 
-![Maintenance & Fleet Reliability](Screenshots/Maintenance_&_Fleet_Reliability.png)
+![Maintenance & Fleet Reliability](Maintenance_&_Fleet_Reliability.png)
 
 ### Safety & Operational Risk
 
